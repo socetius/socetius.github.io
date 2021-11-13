@@ -2,16 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://socetius.github.io/spot/posts/2021-11-17/</loc>
-    <lastmod>2021-11-13T10:30:34+01:00</lastmod>
-  </url><url>
-    <loc>https://socetius.github.io/spot/posts/</loc>
-    <lastmod>2021-11-13T10:30:34+01:00</lastmod>
-  </url><url>
     <loc>https://socetius.github.io/spot/</loc>
     <lastmod>2021-10-24T11:38:55+02:00</lastmod>
   </url><url>
     <loc>https://socetius.github.io/spot/categories/</loc>
+  </url><url>
+    <loc>https://socetius.github.io/spot/</loc>
   </url><url>
     <loc>https://socetius.github.io/spot/tags/</loc>
   </url>
