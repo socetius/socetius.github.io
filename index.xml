@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Prawno-społeczne spotkania naukowe</title>
+    <link>https://socetius.github.io/</link>
+    <description>Recent content on Prawno-społeczne spotkania naukowe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Sat, 13 Nov 2021 13:31:03 +0100</lastBuildDate><atom:link href="https://socetius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pełnomocnictwo w stosunkach niemajątkowych</title>
+      <link>https://socetius.github.io/spotkania/2021-11-17/</link>
+      <pubDate>Sat, 13 Nov 2021 10:30:34 +0100</pubDate>
+      
+      <guid>https://socetius.github.io/spotkania/2021-11-17/</guid>
+      <description>Referat: Albert Pielak, Pełnomocnictwo w stosunkach niemajątkowych
+ Moderator: dr hab. Jakub J. Szczerbowski, prof. UŁ (Uniwersytet Łódzki)
+ Termin: 17 listopada 2021 r. godz. 17:00-18:30
+ Link do spotkania: https://meet.jit.si/prawno-spoleczne-spot</description>
+    </item>
+    
+    <item>
+      <title>Informacje ogólne i kontakt</title>
+      <link>https://socetius.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://socetius.github.io/about/</guid>
+      <description>Rada naukowa    dr hab. Sławomir Kursa, prof. Uniwersytetu SWPS — Uniwersytet SWPS
+  dr hab. Piotr Sadowski — Uniwersytet Opolski
+  prof. dr hab. Bronisław Sitek — Uniwersytet SWPS
+  dr hab. Małgorzata Such-Pyrgiel, prof.WSGE — Wyższa Szkoła Gospodarki Euroregionalnej w Józefowie
+  dr hab. Jakub J. Szczerbowski, prof. UŁ — Uniwersytet Łódzki
+  prof. dr hab. Renata Świrgoń-Skok — Uniwersytet Rzeszowski</description>
+    </item>
+    
+  </channel>
+</rss>
