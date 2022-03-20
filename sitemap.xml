@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://socetius.github.io/spotkania/2022-03-09/</loc>
-    <lastmod>2022-02-26T10:11:32+01:00</lastmod>
+    <loc>https://socetius.github.io/spotkania/2022-03-23/</loc>
+    <lastmod>2022-03-20T09:47:32+01:00</lastmod>
   </url><url>
     <loc>https://socetius.github.io/spotkania/</loc>
+    <lastmod>2022-03-20T09:47:32+01:00</lastmod>
+  </url><url>
+    <loc>https://socetius.github.io/spotkania/2022-03-09/</loc>
     <lastmod>2022-02-26T10:11:32+01:00</lastmod>
   </url><url>
     <loc>https://socetius.github.io/spotkania/2022-02-23/</loc>
