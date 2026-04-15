@@ -4,7 +4,8 @@
     <title>Categories on Prawno-społeczne spotkania naukowe</title>
     <link>https://socetius.github.io/categories/</link>
     <description>Recent content in Categories on Prawno-społeczne spotkania naukowe</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pl</language><atom:link href="https://socetius.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <atom:link href="https://socetius.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
